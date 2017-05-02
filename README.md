@@ -67,10 +67,9 @@ Some of the classes are highly underrepresented. Few classes have less number of
 ####1. As a first step, image preprocessing was done to grayscale and further scale pixel in between 0 and 1. 
 
 Using grayscale as color information does not give more information which further helps to solve the problem. As a property of image , edges and intensity are important with repect to this problem.
-Here is an example of a traffic sign image before and after grayscaling.
+Here is an example of a traffic sign image after grayscaling and its classification .
 
 ![alt text][image22]
-![alt text][image2]
 
 
 ####2. Following is the architecture of first cut of the model used in this project.
