@@ -1,5 +1,5 @@
 #**Traffic Sign Recognition** 
-
+Medium blog : https://medium.com/towards-data-science/identifying-traffic-signs-with-deep-learning-5151eece09cb
 ---
 
 **Build a Traffic Sign Recognition Project**
